@@ -1,0 +1,11 @@
+.App2{
+  
+  text-align: center;
+  background-color: azure;
+}
+.App2:hover{
+  background-color:rgb(208, 250, 137);
+}
+label{
+  display: block;
+}
